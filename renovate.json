@@ -1,6 +1,5 @@
 {
   "rangeStrategy": "pin",
-  "baseBranches": ["dependency-updates"],
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
